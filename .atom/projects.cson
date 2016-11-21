@@ -1,0 +1,50 @@
+{
+    'asynctask-worker':
+        'title': 'asynctask-worker'
+        'devMode': true
+        'paths': [
+            '/www/repositories/asynctask-worker'
+        ]
+    'asynctask-webui':
+        'title': 'asynctask-webui'
+        'devMode': true
+        'paths': [
+            '/www/repositories/asynctask-webui'
+        ]
+    'asynctask-core':
+        'title': 'asynctask-core'
+        'devMode': true
+        'paths': [
+            '/www/repositories/asynctask-core'
+        ]
+    'asynctask-plugins':
+        'title': 'asynctask-plugins'
+        'devMode': true
+        'paths': [
+            '/www/repositories/asynctask-plugins'
+        ]
+    'asynctask-plugins-injector':
+        'title': 'asynctask-plugins-injector'
+        'devMode': true
+        'paths': [
+            '/www/repositories/asynctask-plugins-injector'
+        ]
+    'dailymotion':
+        'title': 'dailymotion'
+        'devMode': true
+        'paths': [
+            '/www/repositories/dailymotion'
+        ]
+    'cloudadm':
+        'title': 'cloudadm'
+        'devMode': true
+        'paths': [
+            '/www/repositories/cloudadm'
+        ]
+    'cloudgate':
+        'title': 'cloudgate'
+        'devMode': true
+        'paths': [
+            '/www/repositories/cloudgate'
+        ]
+}

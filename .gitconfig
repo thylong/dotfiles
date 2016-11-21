@@ -1,0 +1,34 @@
+[filter "media"]
+    clean = git-media-clean %f
+    smudge = git-media-smudge %f
+[user]
+    name = Theotime Leveque
+    mail = theotime.leveque@gmail.com
+    email = theotime.leveque@dailymotion.com
+[credential]
+	helper = osxkeychain
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    ui = true
+[core]
+    pager = less
+    editor = /usr/bin/vim
+    excludesfile = /Users/t.leveque/.gitignore_global
+[alias]
+    ru = remote update
+    co = checkout
+    st = status
+    ba = branch -v -a
+    slog = log --pretty=oneline
+    nlog = log --name-status
+    dlog = log -p
+    flog = log
+    ci = br = branch -v
+[push]
+    default = current
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true

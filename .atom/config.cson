@@ -1,0 +1,55 @@
+"*":
+  "autocomplete-plus": {}
+  core:
+    disabledPackages: [
+      "vim-mode"
+    ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn."
+      "DS_STORE"
+      "*.pyc"
+      "__pycache__"
+    ]
+    telemetryConsent: "no"
+  editor:
+    fontSize: 11
+    invisibles: {}
+    showIndentGuide: true
+    softWrap: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "0894552a-1668-281e-770e-070db6572552"
+  linter:
+    errorPanelHeight: 55
+    ignoredLinterErrors: [
+      "flake8"
+    ]
+    lintOnFly: false
+    showErrorInline: false
+  "linter-flake8":
+    ignoreErrorCodes: [
+      "D100"
+      "D101"
+      "D102"
+      "C901"
+      "E402"
+      "E241"
+    ]
+    maxLineLength: 160
+  "linter-pyflakes": {}
+  "linter-pylint": {}
+  "merge-conflicts": {}
+  minimap: {}
+  tabs:
+    enableVcsColoring: true
+  "tree-view":
+    autoReveal: true
+    focusOnReveal: false
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  "vim-mode": {}
+  welcome:
+    showOnStartup: false
