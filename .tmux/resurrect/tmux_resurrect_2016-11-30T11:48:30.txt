@@ -1,0 +1,18 @@
+pane	base	0	:fish	1	:*	0	:/Users/t.leveque/Desktop	1	fish	:
+pane	base	0	:fish	1	:*	1	:/Users/t.leveque/www/repositories/test	0	fish	:
+pane	chatbot	0	:fish	1	:*	0	:/Users/t.leveque/www/repositories/chatbot	0	fish	:
+pane	chatbot	0	:fish	1	:*	1	:/Users/t.leveque/www/repositories/chatbot	0	watch	:watch kubectl get po --all-namespaces=true
+pane	chatbot	0	:fish	1	:*	2	:/Users/t.leveque/www/repositories/chatbot	1	fish	:
+pane	ian	0	:fish	1	:*	0	:/Users/t.leveque/www/repositories/src/github.com/thylong/ian	0	fish	:
+pane	ian	0	:fish	1	:*	1	:/Users/t.leveque/www/repositories/dotfiles	0	fish	:
+pane	ian	0	:fish	1	:*	2	:/Users/t.leveque	1	fish	:
+pane	ps-platform	0	:fish	1	:*	0	:/Users/t.leveque/www/repositories/publisher	1	fish	:
+pane	sticky	0	:fish	1	:*	0	:/Users/t.leveque/www/repositories/ps-revenues-etl	1	fish	:
+pane	sticky	0	:fish	1	:*	1	:/Users/t.leveque/www/repositories/dwh-agnostic	0	fish	:
+pane	sticky	0	:fish	1	:*	2	:/Users/t.leveque/www/repositories/ps-revenues-etl	0	fish	:
+window	base	0	1	:*	c898,318x74,0,0{159x74,0,0,1,158x74,160,0,3}
+window	chatbot	0	1	:*	b72c,238x61,0,0[238x30,0,0{119x30,0,0,4,118x30,120,0,5},238x30,0,31,6]
+window	ian	0	1	:*	8365,318x74,0,0[318x42,0,0{159x42,0,0,14,158x42,160,0,16},318x31,0,43,15]
+window	ps-platform	0	1	:*	5be6,238x61,0,0,17
+window	sticky	0	1	:*	73a6,318x74,0,0{159x74,0,0,7,158x74,160,0[158x38,160,0,8,158x35,160,39,9]}
+state	sticky	base

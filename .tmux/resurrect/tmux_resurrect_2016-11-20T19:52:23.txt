@@ -1,0 +1,12 @@
+pane	base	0	:fish	1	:*	0	:/Users/t.leveque	1	fish	:
+pane	base	0	:fish	1	:*	1	:/Users/t.leveque/www/repositories/test	0	fish	:
+pane	chatbot	0	:fish	1	:*	0	:/Users/t.leveque/www/repositories/chatbot	0	fish	:
+pane	chatbot	0	:fish	1	:*	1	:/Users/t.leveque/www/repositories/chatbot	0	watch	:watch kubectl get po --all-namespaces=true
+pane	chatbot	0	:fish	1	:*	2	:/Users/t.leveque/www/repositories/chatbot	1	fish	:
+pane	sticky	0	:fish	1	:*	0	:/Users/t.leveque/www/repositories/ps-revenues-etl	1	fish	:
+pane	sticky	0	:fish	1	:*	1	:/Users/t.leveque/www/repositories/ps-revenues-etl	0	fish	:
+pane	sticky	0	:fish	1	:*	2	:/Users/t.leveque/www/repositories/ps-revenues-etl	0	fish	:
+window	base	0	1	:*	d57a,238x59,0,0{119x59,0,0,1,118x59,120,0,3}
+window	chatbot	0	1	:*	b72c,238x61,0,0[238x30,0,0{119x30,0,0,4,118x30,120,0,5},238x30,0,31,6]
+window	sticky	0	1	:*	9166,238x61,0,0{119x61,0,0,7,118x61,120,0[118x30,120,0,8,118x30,120,31,9]}
+state	chatbot	sticky

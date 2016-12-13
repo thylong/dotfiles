@@ -1,0 +1,17 @@
+pane	base	0	:fish	1	:*	0	:/Users/t.leveque/www/repositories/dailymotion-web	1	fish	:
+pane	chatbot	0	:fish	1	:*	0	:/Users/t.leveque/www/repositories/chatbot	1	fish	:
+pane	chatbot	0	:fish	1	:*	1	:/Users/t.leveque/www/repositories/chatbot	0	watch	:watch kubectl get po --all-namespaces=true
+pane	chatbot	0	:fish	1	:*	2	:/Users/t.leveque/www/repositories/chatbot	0	kubectl	:kubectl logs -f --namespace=nginx-ingress nginx-3472852770-dd0er
+pane	chatbot	0	:fish	1	:*	3	:/Users/t.leveque/www/repositories/chatbot	0	fish	:
+pane	chatbot	1	:fish	0	:-	0	:/Users/t.leveque/www/repositories/chatbot	1	fish	:
+pane	ps-platform	0	:fish	1	:*	0	:/Users/t.leveque/www/repositories/publisher	1	fish	:
+pane	sticky	0	:fish	1	:*	0	:/Users/t.leveque/www/repositories/ps-revenues-etl	1	fish	:
+pane	sticky	0	:fish	1	:*	1	:/Users/t.leveque/www/repositories/dwh-agnostic	0	fish	:
+pane	sticky	0	:fish	1	:*	2	:/Users/t.leveque/www/repositories/revshare	0	fish	:
+pane	sticky	0	:fish	1	:*	3	:/Users/t.leveque/www/repositories/partner-stats-etl	0	fish	:
+window	base	0	1	:*	c4fe,318x74,0,0,1
+window	chatbot	0	1	:*	b4de,318x74,0,0[318x36,0,0{159x36,0,0,2,158x36,160,0,3},318x37,0,37{159x37,0,37,4,158x37,160,37,5}]
+window	chatbot	1	0	:-	e2b1,318x74,0,0,22
+window	ps-platform	0	1	:*	62af,318x74,0,0,10
+window	sticky	0	1	:*	980d,318x74,0,0{159x74,0,0,11,158x74,160,0[158x38,160,0,12,158x35,160,39{121x35,160,39,13,36x35,282,39,14}]}
+state	chatbot	base

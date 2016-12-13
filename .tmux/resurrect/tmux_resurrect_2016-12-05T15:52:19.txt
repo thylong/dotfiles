@@ -1,0 +1,19 @@
+pane	base	0	:fish	1	:*	0	:/Users/t.leveque	1	fish	:
+pane	chatbot	0	:fish	1	:*	0	:/Users/t.leveque/www/repositories/chatbot	1	fish	:
+pane	chatbot	0	:fish	1	:*	1	:/Users/t.leveque/www/repositories/chatbot	0	fish	:
+pane	chatbot	0	:fish	1	:*	2	:/Users/t.leveque/www/repositories/chatbot	0	fish	:
+pane	ian	0	:main	1	:*	0	:/Users/t.leveque/www/repositories/src/github.com/thylong/ian	1	fish	:
+pane	ian	0	:main	1	:*	1	:/Users/t.leveque/www/repositories/src/github.com/thylong/ian	0	fish	:
+pane	ian	0	:main	1	:*	2	:/Users/t.leveque/www/repositories/src/github.com/thylong/ian	0	fish	:
+pane	ian	0	:main	1	:*	3	:/Users/t.leveque/www/repositories/src/github.com/thylong/ian	0	fish	:
+pane	ps-platform	0	:fish	1	:*	0	:/Users/t.leveque/www/repositories/publisher	1	fish	:
+pane	sticky	0	:fish	1	:*	0	:/Users/t.leveque/www/repositories/ps-revenues-etl	0	fish	:
+pane	sticky	0	:fish	1	:*	1	:/Users/t.leveque/www/repositories/dwh-agnostic	0	fish	:
+pane	sticky	0	:fish	1	:*	2	:/Users/t.leveque/www/repositories/revshare	0	fish	:
+pane	sticky	0	:fish	1	:*	3	:/Users/t.leveque/www/repositories/partner-stats-etl	1	fish	:
+window	base	0	1	:*	c4fe,318x74,0,0,1
+window	chatbot	0	1	:*	e6c2,318x74,0,0[318x37,0,0{159x37,0,0,2,158x37,160,0,3},318x36,0,38,4]
+window	ian	0	1	:*	9796,318x74,0,0[319x37,0,0{159x37,0,0,5,159x37,160,0,6},319x36,0,38{159x36,0,38,7,159x36,160,38,8}]
+window	ps-platform	0	1	:*	c506,318x74,0,0,9
+window	sticky	0	1	:*	1b5c,318x74,0,0{159x74,0,0,10,158x74,160,0[158x38,160,0,11,158x35,160,39{79x35,160,39,12,78x35,240,39,13}]}
+state	chatbot	sticky

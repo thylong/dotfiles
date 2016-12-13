@@ -1,0 +1,8 @@
+pane	base	0	:fish	1	:*	0	:/Users/t.leveque	1	fish	:
+pane	sticky	0	:ps-revenues-etl	1	:*	0	:/Users/t.leveque/www/repositories/ps-revenues-etl	0	fish	:
+pane	sticky	0	:ps-revenues-etl	1	:*	1	:/Users/t.leveque/www/repositories/dwh-agnostic	0	fish	:
+pane	sticky	0	:ps-revenues-etl	1	:*	2	:/Users/t.leveque/www/repositories/ps-revenues-etl	1	fish	:
+pane	sticky	0	:ps-revenues-etl	1	:*	3	:/Users/t.leveque/www/repositories/revshare	0	fish	:
+window	base	0	1	:*	d55e,238x59,0,0,1
+window	sticky	0	1	:*	603f,318x74,0,0[319x37,0,0{158x37,0,0,2,160x37,159,0,3},319x37,0,38{158x37,0,38,4,160x37,159,38,5}]
+state	sticky	base

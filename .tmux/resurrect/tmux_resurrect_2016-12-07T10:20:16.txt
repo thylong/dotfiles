@@ -1,0 +1,8 @@
+pane	base	0	:fish	1	:*	0	:/Users/t.leveque	1	fish	:
+pane	ian	0	:main	1	:*	0	:/Users/t.leveque/www/repositories/src/github.com/thylong/ian	1	fish	:
+pane	ian	0	:main	1	:*	1	:/Users/t.leveque/www/repositories/src/github.com/thylong/ian	0	vim	:vi /Users/t.leveque/.config/ian/config.yml
+pane	ian	0	:main	1	:*	2	:/Users/t.leveque/www/repositories/src/github.com/thylong/ian	0	fish	:
+pane	ian	0	:main	1	:*	3	:/Users/t.leveque/www/repositories/src/github.com/thylong/ian	0	fish	:
+window	base	0	1	:*	c4fe,318x74,0,0,1
+window	ian	0	1	:*	697d,318x74,0,0[318x37,0,0{159x37,0,0,51,158x37,160,0,52},318x36,0,38{159x36,0,38,53,158x36,160,38,54}]
+state	ian	base
