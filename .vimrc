@@ -85,6 +85,7 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'gmarik/Vundle.vim'
 " Plugin 'altercation/vim-colors-solarized'
+Plugin 'vim-airline/vim-airline-themes'
 Plugin 'Shougo/vimproc', {'do': 'make'}
 Plugin 'Shougo/unite.vim'
 Plugin 'airblade/vim-gitgutter'

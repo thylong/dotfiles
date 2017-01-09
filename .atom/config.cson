@@ -22,6 +22,8 @@
     tabType: "soft"
   "exception-reporting":
     userId: "0894552a-1668-281e-770e-070db6572552"
+  "go-plus":
+    panelDisplayMode: "closed"
   linter:
     errorPanelHeight: 55
     ignoredLinterErrors: [
@@ -37,6 +39,7 @@
       "C901"
       "E402"
       "E241"
+      "W503"
     ]
     maxLineLength: 160
   "linter-pyflakes": {}

@@ -1,4 +1,4 @@
-set -gx PATH /usr/local/sbin /opt/google-cloud-sdk/bin /usr/local/bin /usr/bin /bin /usr/sbin /sbin /opt/X11/bin /usr/local/go/bin /usr/local/MacGPG2/bin /usr/local/bin /Users/(whoami)/www/repositories/bin /Users/(whoami)/anaconda/bin
+set -gx PATH /usr/local/sbin /opt/google-cloud-sdk/bin /usr/local/bin /usr/bin /bin /usr/sbin /sbin /opt/X11/bin /usr/local/go/bin /usr/local/bin /Users/(whoami)/www/repositories/bin
 set -gx EDITOR /usr/bin/vim
 set -gx CDPATH . /Users/(whoami) /Users/(whoami)/www/repositories $CDPATH
 set -gx GOPATH /Users/(whoami)/www/repositories
