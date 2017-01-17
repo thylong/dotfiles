@@ -24,6 +24,7 @@
     userId: "0894552a-1668-281e-770e-070db6572552"
   "go-plus":
     panelDisplayMode: "closed"
+    test: {}
   linter:
     errorPanelHeight: 55
     ignoredLinterErrors: [
