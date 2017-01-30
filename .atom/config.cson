@@ -23,10 +23,11 @@
   "exception-reporting":
     userId: "0894552a-1668-281e-770e-070db6572552"
   "go-plus":
+    currentPanelHeight: "26.07555089192025vh"
     panelDisplayMode: "closed"
     test: {}
   linter:
-    errorPanelHeight: 55
+    errorPanelHeight: 118
     ignoredLinterErrors: [
       "flake8"
     ]

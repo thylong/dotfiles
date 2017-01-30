@@ -1,13 +1,13 @@
-# ~/.tmuxinator/ian.yml
+# ~/.tmuxinator/clrs.yml
 
-name: ian
-root: ~/www/repositories/src/github.com/thylong/ian/
+name: clrs
+root: ~/www/repositories/clrs
 
 # Optional tmux socket
 # socket_name: foo
 
 # Runs before everything. Use it to start daemons etc.
-# pre: atom .
+# pre: sudo /etc/rc.d/mysqld start
 
 # Runs in each window and pane before window/pane specific commands. Useful for setting up interpreter versions.
 # pre_window: rbenv shell 2.0.0-p247
@@ -28,11 +28,13 @@ root: ~/www/repositories/src/github.com/thylong/ian/
 # attach: false
 
 # Runs after everything. Use it to attach to tmux with custom options etc.
-# post: tmux -CC attach -t ian
+# post: tmux -CC attach -t clrs
 
 windows:
-  - main:
+  - editor:
       layout: tiled
       panes:
-        - atom .; git status
-        - vi ~/.config/ian/config.yml
+        - atom .
+        - #
+        - #
+        - #

@@ -34,7 +34,6 @@ windows:
   - ps-revenues-etl:
       layout: tiled
       panes:
-        - git status
+        - atom .; git status
         - cd dwh-agnostic
-        - atom .
         - cd revshare
