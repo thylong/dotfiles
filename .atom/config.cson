@@ -27,12 +27,9 @@
     panelDisplayMode: "closed"
     test: {}
   linter:
-    errorPanelHeight: 118
     ignoredLinterErrors: [
       "flake8"
     ]
-    lintOnFly: false
-    showErrorInline: false
   "linter-flake8":
     ignoreErrorCodes: [
       "D100"

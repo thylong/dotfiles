@@ -1,3 +1,4 @@
 .atom/.apm
 .atom/blob-store
 .atom/recovery
+.tmux/resurrect/*.txt
