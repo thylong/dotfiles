@@ -7,8 +7,6 @@ set -gx ZONE 'us-east1-b'
 set -gx REPOSITORIES_PATH /Users/(whoami)/www/repositories
 set -gx fish_greeting ''
 
-set -gx HOMEBREW_GITHUB_API_TOKEN '20aa6999f29b97b6d3384fc1f854bdd964f06346'
-
 # The next line updates PATH for the Google Cloud SDK.
 bass source '/opt/google-cloud-sdk/path.bash.inc'
 
