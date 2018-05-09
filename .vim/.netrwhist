@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/Users/t.leveque/www/dailymotion/lib'
-let g:netrw_dirhist_2='/Users/t.leveque/www/dailymotion/lib/api'
-let g:netrw_dirhist_3='/Users/t.leveque/www/dailymotion/conf'
-let g:netrw_dirhist_4='/Users/t.leveque/www/repositories/dailymotion-web/lib/api/Helpers'
-let g:netrw_dirhist_5='/Users/t.leveque/.config'
-let g:netrw_dirhist_6='/Users/thylong/.config/fish'
